@@ -3,10 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hola, me llamo Carlos Yanes. Un gusto que estés por acá.
+  Hola, me llamo Carlos Yanes!!
 ---
 
 <!-- this is a subheadline -->
-Soy profesor en la Universidad del Norte :co: 
+Soy profesor en la Universidad del Norte :CO: 
 
-Este curso tiene un par de secciones que puedes ir mirando en `content/about/` e ir navegando a tu gusto. De igual manera esta `header`, `main`, y `sidebar` donde podrás encontrar el material de clases.
+Este curso tiene un par de secciones donde implementamos un grupos de  `Paquetes` del Software de R y Rstudio. Puedes ir navegando a tu gusto. 
