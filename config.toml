@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://cienciadatoscaribe.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Ciencia de Datos"
@@ -132,7 +132,7 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projectos"
+    name = "Proyectos"
     title = "Portafolio de proyectos"
     url = "/project/"
     weight = 3
