@@ -119,13 +119,13 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Sobre"
+    name = "Inicio"
     title = "Curso Uninorte"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "CV"
+    title = "CV"
     url = "/blog/"
     weight = 2
   [[menu.header]]
