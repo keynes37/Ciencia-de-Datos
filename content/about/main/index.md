@@ -11,7 +11,7 @@ intro: |
   Espero que guste **aprender** de la ciencia de datos, será esencial en el futuro por ser una de las **cualidades** y competencia que exigen los mercados de trabajo.
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Agradezco mucho a la Profesora  [Alison Hill](https://www.apreshill.com/) por todo el apoyo y disponer de sus elementos para construir este sitio de trabajo.
+  <i class="fas fa-glass-cheers pr2"></i>Agradezco mucho a la Profesora  [Alison Hill](https://www.apreshill.com/) por disponer de sus elementos para construir este sitio de trabajo.
 ---
 
 ** index doesn't contain a body, just front matter above.
