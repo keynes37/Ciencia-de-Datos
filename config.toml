@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Universidad del Norte"
   orgLocal = "Barranquilla"
   description = "Elementos del curso de analitica en la Universidad del Norte"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = ""
+  logo = "/img/unico.jpeg"
   mainSections = ["Blog", "Cursos", "Contacto"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "forest"
+  theme = "poppy"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -119,35 +119,26 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Inicio"
+    name = "Sobre mi"
     title = "Curso Uninorte"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "CV"
-    title = "CV"
+    name = "Investigación"
+    title = "Publicaciones"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Proyectos"
-    title = "Portafolio de proyectos"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
-    name = "Consultas"
-    title = "Consulta"
+    name = "Cursos"
+    title = "Intrucción"
     url = "/talk/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Recursos"
     title = "Recursos Adicionales"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elementos"
-    title = "Elementos"
-    url = "/elements/"
-    weight = 6
+    url = "/project/"
+    weight = 4
+
     
   # Configure footer  
   [[menu.footer]]

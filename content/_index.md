@@ -1,16 +1,16 @@
 ---
-action_label: Read More &rarr;
+action_label: Sobre mi &rarr;
 action_link: /about
 action_type: text
-description: Siempre es bueno comprender todas las metodologías para el análisis de datos. No te preocupes!! estas en el lugar adecuado
+description: Siempre es bueno intentar comprender todas las metodologías para el análisis de datos. No te preocupes!! estas en el lugar adecuado
 image_left: true
 images:
-- img/Hjct.jpeg
+- img/Ft.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: Unos recursos web para tu comprensión
+subtitle: Profesor Asistente en el Departamento de Economía Uninorte
 text_align_left: false
-title: Ciencia de Datos
+title: Carlos Andrés Yanes
 type: home
 ---
 

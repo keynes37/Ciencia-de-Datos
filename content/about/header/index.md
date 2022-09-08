@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Soy profesor en la Universidad del Norte :colombia: 
+Soy Economista de formación y ahora soy profesor en la Universidad del Norte :colombia: 
 
-Este sitio tiene un par de secciones de los distintos cursos en los que soy instructor. Se implementa un grupo de  `Paquetes` del Software de R y Rstudio para las clases magistrales de la Maestría y del Pregrado. Puedes ir navegando a tu gusto. 
+Este sitio tiene un par de secciones de los distintos cursos en los que soy instructor. Hago uso de varios  `Paquetes` del Software de **R** y su respectivo IDE conocido como **R Studio** para las clases magistrales de la Maestría en Economía y del Pregrado en Econometría e Introducción a la economía. Puedes ir navegando a tu gusto y ayudarte del material que te sea apropiado. 
