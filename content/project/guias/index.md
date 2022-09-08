@@ -6,7 +6,7 @@ categories:
 - package
 date: "2022-09-08"
 draft: false
-excerpt: Para trabajo en R
+excerpt: En esta parte se encuentran los elementos y guías que se usan en econometría I para el uso de R. Muchos de los elementos que se encuentran ahí son con base al libro de Using R for Introductory Econometrics de Florian Heiss.
 layout: single
 links:
 - icon: github
