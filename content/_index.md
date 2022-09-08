@@ -2,7 +2,7 @@
 action_label: Sobre mi &rarr;
 action_link: /about
 action_type: text
-description: Economista y entusiasta de las ciencias sociales y los métodos cuantitativos y cualitativos. De raíces de la costa caribe Colombiana. Intento enseñar de economía y ciencia de datos a personas que les interesa aprender de esos temas. Siempre es bueno intentar comprender todas las metodologías para el **análisis de datos**. No te preocupes!! estas en el lugar adecuado
+description: Este sitio tiene un par de secciones de los distintos cursos en los que soy instructor. Hago uso de varios  `Paquetes` del Software de **R** y su respectivo IDE conocido como **R Studio** para las clases magistrales de la Maestría en Economía y del Pregrado en Econometría e Introducción a la economía. Puedes ir navegando a tu gusto y ayudarte del material que te sea apropiado para aprender. 
 image_left: true
 images:
 - img/Ft.jpeg

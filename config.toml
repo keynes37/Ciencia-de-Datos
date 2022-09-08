@@ -90,13 +90,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/keynes37"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/YoungCy"
-  [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/economia_uninorte/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -104,12 +100,19 @@ enableEmoji = true
   [[params.social]]
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://profiles.impactstory.org/u/0000-0003-0683-3727"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0003-0683-3727"
-
+  [[params.social]]
+      icon      = "bitbucket" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://bitbucket.org/Keynes37/"
+  [[params.social]]
+      icon      = "google" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://scholar.google.es/citations?user=NlFSQDwAAAAJ&hl=es"
 
 [taxonomies]
   category = "categories"
