@@ -17,7 +17,7 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+subtitle: Para trabajar
 tags:
 - hugo-site
 title: R y RStudio
