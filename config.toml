@@ -109,9 +109,13 @@ enableEmoji = true
       icon      = "bitbucket" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://bitbucket.org/Keynes37/"
-  [[params.social]]
-      icon      = "google" # icon name without the 'fa-'
+        [[params.social]]
+      icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/carlos-andres-yanes-guerra-0026bb31/"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'ai-'
+      icon_pack = "ai"
       url       = "https://scholar.google.es/citations?user=NlFSQDwAAAAJ&hl=es"
 
 [taxonomies]
