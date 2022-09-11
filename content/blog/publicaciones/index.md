@@ -7,13 +7,13 @@ excerpt: "En revistas indexadas y documentos de trabajo"
 
 ## Artículos
 
-Yanes-Guerra, Carlos; De La Cruz-Almanza, Sadan. Dinámica del precio de la leche en las regiones de Colombia: un análisis de series de tiempo. Clío América, 2021, vol. 15, no 29, p. 598-608.
+Yanes-Guerra, Carlos; De La Cruz-Almanza, Sadan. Dinámica del precio de la leche en las regiones de Colombia: un análisis de series de tiempo. Clío América, 2021, vol. 15, no 29, p. 598-608. [Link](https://revistas.unimagdalena.edu.co/index.php/clioamerica/article/view/4254)
 
-Méndez-Morales, E. A., & Yanes-Guerra, C. A. (2021). Financial system specialization and private research and development expenditure: research for OECD countries. Journal of Economics, Finance and Administrative Science.
+Méndez-Morales, E. A., & Yanes-Guerra, C. A. (2021). Financial system specialization and private research and development expenditure: research for OECD countries. Journal of Economics, Finance and Administrative Science. [Link](https://www.emerald.com/insight/content/doi/10.1108/JEFAS-10-2019-0256/full/html)
 
-Yanes Guerra, C. A. (2018). La reforma laboral de 2002 y la dinámica del empleo industrial en Colombia.
+Yanes Guerra, C. A. (2018). La reforma laboral de 2002 y la dinámica del empleo industrial en Colombia. [Link](https://revistas.utb.edu.co/index.php/economiayregion/article/view/185)
 
-Mendoza Tolosa, H. A., & Yanes Guerra, C. A. (2014). Impacto del gasto público en la dinámica económica regional. Revista Finanzas y Política Económica, 6(1), 23-41.
+Mendoza Tolosa, H. A., & Yanes Guerra, C. A. (2014). Impacto del gasto público en la dinámica económica regional. Revista Finanzas y Política Económica, 6(1), 23-41.[Link](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S2248-60462014000100002)
 
 Poveda, J. P. V., Pulido, C. G. R., & Guerra, C. A. Y. (2014). La influencia de los determinantes macroeconómicos en la cartera comercial de crédito de consumo en Colombia (2006-2010). Criterios Revista Estudiantes Facultad De Ciencias Económicas, 4(1), 5-32.
 
