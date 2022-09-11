@@ -38,3 +38,5 @@ Este curso es presentado en el V semestre de la carrera de economía de la [Univ
 4. Modelo de Regresión [MCO](https://bb.githack.com/Keynes37/econometria-i/raw/main/Class/Clase%2004%20MCO/Clase04.html)
 
 5. Inferencia en Regresión [Hipotesis](https://bb.githack.com/Keynes37/econometria-i/raw/main/Class/Clase%2005%20MCO%20INF/Clase05.html)
+
+6. Regresión Múltiple [Variables Explicativas](https://bb.githack.com/Keynes37/econometria-i/raw/main/Class/Clase%2006%20REG%20MULT/Class06.html)
