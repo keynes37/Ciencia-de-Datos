@@ -137,7 +137,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Cursos"
-    title = "Intrucción"
+    title = "Instrucción"
     url = "/talk/"
     weight = 3
   [[menu.header]]
