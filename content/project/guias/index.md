@@ -39,6 +39,8 @@ title: R y R Studio
 
 * Inferencia MCO [Guía 5](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G5.html)
 
+* Regresión Múltiple [Guía 6](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G6.html)
+
 
 ### Talleres en clase ###
 
