@@ -26,6 +26,8 @@ Este repositorio hace parte de los recursos del seminario de datos de la Maestr�
 
 * Introducción
 
+* Modelo Logit
+
 ### Guías ###
 
 Hacemos uso de **R** para esta parte y **Markdown**
@@ -35,3 +37,5 @@ Hacemos uso de **R** para esta parte y **Markdown**
 ### Prácticos ###
 
 1. Parte 1 [pdf](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/Practico01.pdf)
+
+2. Parte 2
