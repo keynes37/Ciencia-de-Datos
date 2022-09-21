@@ -46,6 +46,9 @@ title: R y R Studio
 
 + Se debe elaborar el [Taller 2](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Tclase2.html)
 
+### Work Class ###
+
+* Work of matrix [Workclass 01](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC01.pdf)
 
 ### Intrucciones generales ###
 
