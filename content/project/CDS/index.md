@@ -18,24 +18,36 @@ tags:
 title: Seminario de Datos
 ---
 
-# README #
+# Presentación #
 
-Este repositorio hace parte de los recursos del seminario de datos de la Maestría en Economía de la Universidad del Norte.
+Este repositorio hace parte de los recursos del seminario de datos de la Maestría en Economía de la Universidad del Norte. Contiene elementos elaborados y creado por los Profesores de la Universidad de Oregon como lo es Ed Rubin, de la Universidad del Rosario el profesor Jorge Gallego y de la Universidad de Zurich como lo es Jan Kirenz quienes han compartido todo su trabajo. A ellos mis agradecimientos.
 
 ### Clases ###
 
-* Introducción
+* [Introducción](https://bb.githack.com/Keynes37/semofdata/raw/main/Clases/class00.html) | [pdf](https://bb.githack.com/Keynes37/semofdata/raw/main/Clases/Class-intro.pdf)
 
-* Modelo Logit
+* [Curvas ROC Matriz cofusion](https://bb.githack.com/Keynes37/semofdata/raw/main/Clases/class02.html) | [pdf](https://bb.githack.com/Keynes37/semofdata/raw/main/Clases/Class-02.pdf)
 
 ### Guías ###
 
 Hacemos uso de **R** para esta parte y **Markdown**
 
-* [R1](https://bb.githack.com/Keynes37/semofdata/raw/main/Clases/class01.html)
+* [R1](https://bb.githack.com/Keynes37/semofdata/raw/main/Clases/class01.html) | [pdf](https://bb.githack.com/Keynes37/semofdata/raw/main/Clases/Data%20Science%2001%20guide.pdf)
+
+### Back intro ###
+
+* Muestra [Guia](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/Capstone-3.html)
 
 ### Prácticos ###
 
 1. Parte 1 [pdf](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/Practico01.pdf)
 
-2. Parte 2
+2. Parte 2 
+
+### Trabajo en clases ###
+
+Modelo [logit](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/LogitClass.html)
+
+Modelo [tidymodel](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/Capstone-4.html)
+
+Modelo [clasificación: Vecino Cercano](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/Capstone-5.html)
