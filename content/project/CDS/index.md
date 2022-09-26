@@ -42,7 +42,7 @@ Hacemos uso de **R** para esta parte y **Markdown**
 
 1. Parte 1 [pdf](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/Practico01.pdf)
 
-2. Parte 2 
+2. Parte 2 [pdf](https://bb.githack.com/Keynes37/semofdata/raw/main/Practicos-clase/Practico02.pdf)
 
 ### Trabajo en clases ###
 
