@@ -45,7 +45,7 @@ Este *repositorio* hace parte del contenido de las clases de **Econometría I** 
 
 * Regresión Múltiple [Guía 6](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G6.html)
 
-* Regresión Múltiple [Guía 7](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G7.html)
+* Regresión Múltiple Cualitativas [Guía 7](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G7.html)
 
 
 ### Talleres en clase ###
@@ -56,7 +56,7 @@ Este *repositorio* hace parte del contenido de las clases de **Econometría I** 
 
 * Work of matrix [Workclass 01](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC01.pdf)
 
-* Work of qualitative [Workclass 01](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC02.pdf)
+* Work of qualitative [Workclass 02](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC02.pdf)
 
 ### Intrucciones generales ###
 
