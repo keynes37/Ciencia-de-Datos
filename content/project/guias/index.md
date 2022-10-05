@@ -27,6 +27,10 @@ title: R y R Studio
 
 ### Un par de consejos para instalar R
 
+# Recursos acádemicos de Econometría I #
+
+Este *repositorio* hace parte del contenido de las clases de **Econometría I** del curso introductorio en métodos cuantitativos en el departamento de Economía de la Universidad del Norte.
+
 ### Grupo de Guías ###
 
 * Introducción [Guía 1](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G1.html)
@@ -41,6 +45,8 @@ title: R y R Studio
 
 * Regresión Múltiple [Guía 6](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G6.html)
 
+* Regresión Múltiple [Guía 7](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G7.html)
+
 
 ### Talleres en clase ###
 
@@ -50,6 +56,8 @@ title: R y R Studio
 
 * Work of matrix [Workclass 01](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC01.pdf)
 
+* Work of qualitative [Workclass 01](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC02.pdf)
+
 ### Intrucciones generales ###
 
 * Recuerde saber separar los códigos de la parte de párrafos y análisis
@@ -58,3 +66,12 @@ title: R y R Studio
 * No hay problema si lo hace en word pero debe insertar de forma ordenada los gráficos
 * En una hoja aparte debe remitir el script de su trabajo.
 
+### Sobre el autor ###
+
+**Carlos Yanes** es profesor asistente en el Departamento de Economía. Sus intereses rondan los temas de mercado laboral, innovación y evaluación de impacto. Posee habilidades cualificadas en **R**, **Python** y otros softwares como **STATA**, **Eviews**, entre otros.
+
+### Requerimiento ###
+
+* Todas las guías deben ser resueltas en clases
+* No se permite entregas en fechas diferentes
+* Pueden ser desarrolladas en grupos de hasta (2) personas
