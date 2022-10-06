@@ -37,3 +37,5 @@ El grupo de presentaciones estaran en formato estático en el **brightspace** de
 * Clase 05 [Elasticidad](https://bb.githack.com/Keynes37/intro-economics/raw/master/Clases/Clase05.html)
 
 * Clase 06 [Estado](https://bb.githack.com/Keynes37/intro-economics/raw/master/Clases/Clase06.html)
+
+* Clase 07 [Cuentas Nacionales](https://bb.githack.com/Keynes37/intro-economics/raw/master/Clases/Clase07.html)
