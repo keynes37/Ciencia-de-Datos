@@ -58,6 +58,8 @@ Este *repositorio* hace parte del contenido de las clases de **Econometría I** 
 
 * Work of qualitative [Workclass 02](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC02.pdf)
 
+* Work of Analysis [Workclass03](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/Classwork/PracticoC03.pdf)
+
 ### Intrucciones generales ###
 
 * Recuerde saber separar los códigos de la parte de párrafos y análisis
