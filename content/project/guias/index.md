@@ -47,6 +47,8 @@ Este *repositorio* hace parte del contenido de las clases de **Econometría I** 
 
 * Regresión Múltiple Cualitativas [Guía 7](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G7.html)
 
+* Heterocedasticidad [Guía 8](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G8.html)
+
 
 ### Talleres en clase ###
 
