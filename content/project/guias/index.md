@@ -49,6 +49,8 @@ Este *repositorio* hace parte del contenido de las clases de **Econometría I** 
 
 * Heterocedasticidad [Guía 8](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G8.html)
 
+* Autocorrelación [Guía 9](https://bb.githack.com/Keynes37/guideeconometrics/raw/master/Guias/G9.html)
+
 
 ### Talleres en clase ###
 
