@@ -1,12 +1,12 @@
 ---
-author: Carlos Yanes
+author: Carlos A. Yanes
 categories:
 - Theme Features
 - R
 - package
 date: "2023-01-23"
 draft: false
-excerpt: En esta parte se encuentran los elementos y guías que se usan en econometría I para el uso del software de R. Muchos de los elementos que se encuentran aquí son en base al libro de Using R for Introductory Econometrics de Florian Heiss.
+excerpt: En esta parte se encuentran los elementos y guías que se usan en econometría I para el uso del software de **R**. Muchos de los elementos que se encuentran aquí son en base al libro de Using R for Introductory Econometrics de Florian Heiss.
 layout: single
 links:
 - icon: github
@@ -16,7 +16,7 @@ links:
 subtitle: Archivo de instalación
 tags:
 - hugo-site
-title: Software de R y Complemento de R Studio
+title: R y R Studio
 ---
 
 ![Uninorte Logo](Uninorte-logo.png)
