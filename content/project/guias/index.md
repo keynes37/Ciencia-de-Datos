@@ -73,7 +73,7 @@ _Para esta ocasión se situan los trabajos que deben entregar los estudiantes al
 
 **Carlos Yanes** es profesor asistente en el Departamento de Economía. Sus intereses rondan los temas de mercado laboral, innovación y evaluación de impacto. Posee habilidades cualificadas en **R**, **Python** y otros softwares como **STATA**, **Eviews**, entre otros.
 
-### Solicitud Especial ###
+### Lo que debe tener en cuenta ###
 
 * Todos los workshops deben ser resueltos en clases
 * No se permite entregas en fechas diferentes
