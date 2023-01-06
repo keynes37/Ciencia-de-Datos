@@ -71,7 +71,7 @@ Para esta ocasión se situan los trabajos que deben entregar los estudiantes al 
 
 ### Sobre el autor ###
 
-**Carlos Yanes G.** es profesor asistente en el Departamento de Economía. Sus intereses rondan los temas de mercado laboral, innovación y evaluación de impacto. Posee habilidades cualificadas en **R**, **Python** y otros softwares como **STATA**, **Eviews**, entre otros.
+**Carlos A. Yanes G.** es profesor asistente en el Departamento de Economía. Sus intereses rondan los temas de mercado laboral, innovación y evaluación de impacto. Posee habilidades cualificadas en **R**, **Python** y otros softwares como **STATA**, **Eviews**, entre otros.
 
 ### Lo que debe tener en cuenta ###
 
