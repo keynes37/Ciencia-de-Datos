@@ -53,7 +53,7 @@ Este *repositorio* hace parte del contenido de las clases de **Econometría I** 
 
 ### Work Class ###
 
-_Para esta ocasión se situan los trabajos que deben entregar los estudiantes al finalizar una de las jornadas de trabajo en clases_
+Para esta ocasión se situan los trabajos que deben entregar los estudiantes al finalizar una de las jornadas de trabajo en clases
 
 * Work of introduction 
 
